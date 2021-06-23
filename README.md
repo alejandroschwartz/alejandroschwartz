@@ -4,8 +4,8 @@
 ### I´m frontend developer with React
 
 - 🌱 I’m currently learning MERN Stack on Platzi
-- Follow me on [Instagram](tps://www.instagram.com/alejandro_schwartz_dev/)
-- Follow me on [Twitter](ttps://twitter.com/_alejandrosch_)
+- Follow me on Instagram [](htps://www.instagram.com/alejandro_schwartz_dev/)
+- Follow me on [Twitter](https://twitter.com/_alejandrosch_)
 
 
 
